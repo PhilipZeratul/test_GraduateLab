@@ -1,0 +1,30 @@
+/*
+!.gitignore
+
+
+# Unity3D related
+!/Assets
+/Assets/AssetStoreTools
+!/ProjectSettings
+*.unitypackage
+
+
+# Xcode related
+!/Builds
+/Builds/*
+!/Builds/iPad/
+/BUilds/iPad/*
+!/Builds/iPad/Classes/
+/Builds/iPad/Classes/*
+!/Builds/iPad/Classes/MyCodes
+!/Builds/iPad/Info.plist
+
+
+# Mac-OSX related
+.DS_Store
+*.zip
+
+# Windows OS related
+.Trashes
+[Tt]humbs.db
+[Dd]esktop.ini
